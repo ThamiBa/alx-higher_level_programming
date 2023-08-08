@@ -1,0 +1,1 @@
+# Python is a high-level programming language that is interpreted, meaning it does not require a separate compilation step. It is object-oriented, allowing for the creation and manipulation of objects. Python is known for its readability, with a syntax that emphasizes clarity and simplicity. It is also a dynamic language, allowing for flexibility and ease of use.
