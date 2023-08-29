@@ -4,10 +4,6 @@
 
 In this project, I began practicing object-oriented programming using classes and objects in Python. I learned about attributes, methods, and properties as well as data abstraction, data encapsulation, and information hiding.
 
-## Tests
-
-* [tests](./tests): Folder of test files. Provided by ALX_Africa.
-
 ## Tasks
 
 * **0. My first square**
