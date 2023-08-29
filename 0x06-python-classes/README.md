@@ -4,7 +4,7 @@
 
 In this project, I began practicing object-oriented programming using classes and objects in Python. I learned about attributes, methods, and properties as well as data abstraction, data encapsulation, and information hiding.
 
-## Tasks
+## Tasks :page_with_curl:
 
 * **0. My first square**
   * [0-square.py](./0-square.py): Python class `Square` that defines a square.
