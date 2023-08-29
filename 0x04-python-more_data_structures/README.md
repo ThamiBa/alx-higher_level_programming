@@ -25,9 +25,9 @@ Prototypes for functions written in this project:
 | `100-weight_average.py`        | `def weight_average(my_list=[]):`                                                                         |
 | `101-square_matrix_map.py`     | `def square_matrix_map(matrix=[]):`                                                                       |
 | `102-complex_delete.py`        | `def complex_delete(a_dictionary, value):`                                                                |
-| `103-python.c`                 | `<ul><li>`void print_python_list(PyObject *p);`</li><li>`void print_python_bytes(PyObject*p);`</li></ul>` |
+| `103-python.c`                 | <ul><li>`void print_python_list(PyObject *p);`</li><li>`void print_python_bytes(PyObject *p);`</li></ul> |
 
-## Tasks :page_with_curl
+### Tasks :page_with_curl
 
 * **0. Squared simple**
   * [0-square_matrix_simple.py](./0-square_matrix_simple.py): Python function that computes
@@ -143,4 +143,4 @@ Prototypes for functions written in this project:
 
 * **16. CPython #1: PyBytesObject**
   * [103-python.c](./103-python.c): C functions that print basic information about
-  Python lists and Python bytes objects .
+  Python lists and Python bytes objects.
