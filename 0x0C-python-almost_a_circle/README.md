@@ -1,6 +1,6 @@
 # 0x0C. Python - Almost a circle
 
-This project is a review of everything learned in Python up until 09/13/17:
+This project is a review of everything learned in Python up until 09/16/23:
 
 * Import
 * Exceptions
