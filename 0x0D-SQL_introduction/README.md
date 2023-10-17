@@ -86,6 +86,6 @@ In this project, we began working on relational databases. I started practising 
 * **20. Temperature #2**
   * [103-max_state.sql](./103-max_state.sql): MySQL script that displays the max temperature of each state in order of state name.
   
-## Dump file :dolphin:
+## Dump file
 
 * Tasks 101-103 query from the database [temperatures.sql](./temperatures.sql).
